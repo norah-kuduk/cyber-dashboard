@@ -31,7 +31,7 @@ To run the dashboard locally:
 
 ```bash
 git clone https://github.com/norah-kuduk/cyber-dashboard.git
-cd cs4016
+cd cyber-dashboard
 pip install -r requirements.txt
 python3 app.py
 ```
